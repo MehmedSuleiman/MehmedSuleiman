@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/7Z6zF3K.png" width="100%" alt="banner"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Mehmed</h1>
 <h3 align="center">17 y/o Junior Full‑Stack Developer | Python Lover | Future AI Engineer</h3>
@@ -75,23 +71,16 @@ Recently, I started learning **JavaScript** to expand my full‑stack abilities.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmedSuleiman&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmedSuleiman&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmedSuleiman&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-## 🎨 Cool Visual Section
-
-<p align="center">
-  <img src="https://i.imgur.com/8fJQFfM.gif" width="60%" alt="coding gif"/>
-</p>
-
----
 
 ## 📫 Contact
 
