@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Developer;Python+%26+Django+Developer;Future+AI+Engineer" alt="Typing introduction" />
 </p>
 
+##Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
