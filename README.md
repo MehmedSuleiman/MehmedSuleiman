@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Developer;Python+%26+Django+Developer;Future+AI+Engineer" alt="Typing introduction" />
 </p>
 
+
+---
+
+## 🌟 About Me
+
+I'm a developer from Bulgaria, studying at **SoftUni**. I enjoy building web apps and working with Python, Django, and databases. My goal is to grow into **AI engineering**.
+
 ## 🛠️ Skills I Know
 
 <p align="center">
@@ -16,12 +23,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-## 🌟 About Me
-
-I'm a developer from Bulgaria, studying at **SoftUni**. I enjoy building web apps and working with Python, Django, and databases. My goal is to grow into **AI engineering**.
 
 ## 📚 Currently Learning
 
